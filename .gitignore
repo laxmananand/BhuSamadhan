@@ -1,0 +1,27 @@
+# Database backups
+*.bak
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Visual Studio
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vs/
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# NuGet
+packages/
+
+# Temp files
+*.tmp
+*.log
